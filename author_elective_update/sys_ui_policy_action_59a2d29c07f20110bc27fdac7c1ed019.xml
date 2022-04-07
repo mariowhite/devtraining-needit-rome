@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>upon_approval</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-07 17:57:14</sys_created_on>
+        <sys_id>59a2d29c07f20110bc27fdac7c1ed019</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>upon_approval</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_policy_action_59a2d29c07f20110bc27fdac7c1ed019</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-07 17:57:14</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <ui_policy display_value="Check Approved State">4a41925c07f20110bc27fdac7c1ed0cd</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>894e869edbf353801ddcf22ebf961953</instance_id>
+        <instance_name>dev69904</instance_name>
+        <name>sys_ui_policy_action_59a2d29c07f20110bc27fdac7c1ed019</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>true</disabled><field>upon_approval</field><mandatory>true</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-07 17:57:14</sys_created_on><sys_id>59a2d29c07f20110bc27fdac7c1ed019</sys_id><sys_mod_count>0</sys_mod_count><sys_name>upon_approval</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_policy_action_59a2d29c07f20110bc27fdac7c1ed019</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-07 17:57:14</sys_updated_on><table>x_58872_needit_needit</table><ui_policy display_value="Check Approved State">4a41925c07f20110bc27fdac7c1ed0cd</ui_policy><visible>true</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>449245610</payload_hash>
+        <record_name>upon_approval</record_name>
+        <reverted_from/>
+        <source>600f81d807320110bc27fdac7c1ed00e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-07 17:57:14</sys_created_on>
+        <sys_id>1f235a9c07f20110bc27fdac7c1ed046</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180052c5be70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-07 17:57:14</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>57235a9c7df20110889b6fbef575e746</update_guid>
+        <update_guid_history>57235a9c7df20110889b6fbef575e746:449245610</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-07 18:03:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>7dcebe908ea2452483d55f80c1c03c79</sys_id>
+        <sys_metadata>59a2d29c07f20110bc27fdac7c1ed019</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>upon_approval</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="Check Approved State">4a41925c07f20110bc27fdac7c1ed0cd</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_59a2d29c07f20110bc27fdac7c1ed019</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_59a2d29c07f20110bc27fdac7c1ed019">1f235a9c07f20110bc27fdac7c1ed046</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-07 18:03:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
